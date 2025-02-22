@@ -1,0 +1,2 @@
+C:/Users/HP/Desktop/time_tracker/android/app/.cxx/Debug/2j4b5901/x86_64/CMakeFiles/edit_cache.dir
+C:/Users/HP/Desktop/time_tracker/android/app/.cxx/Debug/2j4b5901/x86_64/CMakeFiles/rebuild_cache.dir
